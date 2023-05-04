@@ -1,5 +1,5 @@
 # website-template
-a simple website homepage template
+a simple website homepage template - see the [gh-pages](https://github.com/fakerybakery/website-template/tree/gh-pages) branch for the live demo.
 ## screenshot
 
 <img width="512" alt="screenshot" src="https://user-images.githubusercontent.com/76186054/236087300-f2931ec9-79e2-441f-afbf-f703fd5b539a.png">
@@ -15,7 +15,7 @@ a simple website homepage template
 
 open a github issue to bump a feature
 ## live demo
-[check out the live demo](https://fakerybakery.github.io/website-template/) hosted by github pages
+[check out the live demo](https://fakerybakery.github.io/website-template/) hosted by github pages - see the [gh-pages](https://github.com/fakerybakery/website-template/tree/gh-pages) branch
 ## license
 feel free to use this for free on your website, but please make sure my username (and a link to my website/github/twitter) ends up somewhere in the footer
 ## includes
