@@ -6,8 +6,9 @@ a simple website homepage template - see the [gh-pages](https://github.com/faker
 
 ## features
  - ripple effect
- - navbar
+ - navbar - works on mobile too
  - perfect for your new saas startup
+ - mobile-friendly
 ## coming soon
  - [ ] login page
  - [ ] non homepage page
