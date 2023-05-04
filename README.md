@@ -1,5 +1,11 @@
 # website-template
 a simple website homepage template
+## screenshot
+<img width="512" alt="screenshot" src="https://user-images.githubusercontent.com/76186054/236087300-f2931ec9-79e2-441f-afbf-f703fd5b539a.png">
+## features
+ - ripple effect
+ - navbar
+ - perfect for your new saas startup
 ## live demo
 [check out the live demo](https://fakerybakery.github.io/website-template/) hosted by github pages
 ## license
