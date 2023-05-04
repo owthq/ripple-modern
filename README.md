@@ -8,6 +8,12 @@ a simple website homepage template
  - ripple effect
  - navbar
  - perfect for your new saas startup
+## coming soon
+ - [ ] login page
+ - [ ] non homepage page
+ - [ ] templating system using php or nodejs
+
+open a github issue to bump a feature
 ## live demo
 [check out the live demo](https://fakerybakery.github.io/website-template/) hosted by github pages
 ## license
