@@ -20,7 +20,7 @@ Please open a GitHub Discussion to bump a feature
 ## Live demo
 [Check out the Live Demo](https://fakerybakery.github.io/website-template/) hosted by GitHub Pages (See the [gh-pages](https://github.com/fakerybakery/website-template/tree/gh-pages) branch)
 ## License
-feel free to use this for free on your website, but please make sure my username (and a link to my website/github/twitter) ends up somewhere in the footer
+Please refer to the [OWT license](https://github.com/owthq/license).
 ## Credits
 This template includes the following packages:
 
